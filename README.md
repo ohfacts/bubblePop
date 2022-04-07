@@ -1,5 +1,5 @@
 # bubblePop
-I needed to host it, so I made a new repo, this game doesn't reflect the kind of games I make, this was for a project.
+I needed to host it, so I made a new repo, this game doesn't reflect the kind of games I make, this was for an assignment.
 https://ohfacts.github.io/bubblePop/
 
 ^link.
